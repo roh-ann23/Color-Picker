@@ -30,4 +30,4 @@ This is a simple web-based application that allows users to change the backgroun
 
 - **HTML (index.html):** Contains the structure of the color theme switcher app, including color buttons and the container for the dynamic background.
 - **CSS (style.css):** Provides styles for the app elements, including layout, positioning, and aesthetics.
-- **JavaScript (script.j
+- **JavaScript (script.js)** Implements the functionality to pick the colour and change the background colour.
